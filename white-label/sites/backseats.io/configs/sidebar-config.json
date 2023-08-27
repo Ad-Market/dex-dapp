@@ -1,0 +1,27 @@
+{
+  "siteName": "Backseats",
+  "disabledApps": [
+    "earn",
+    "home"
+  ],
+  "menuLinks": [
+  ],
+  "helpLinks": [
+    {
+      "href": "https://backseats.io/",
+      "icon": "telegram.svg"
+    },
+    {
+      "href": "https://backseats.io/",
+      "icon": "global-community.svg"
+    },
+    {
+      "href": "https://backseats.io/",
+      "icon": "twitter.svg"
+    },
+    {
+      "href": "https://backseats.io/",
+      "icon": "facebook.svg"
+    }
+  ]
+}

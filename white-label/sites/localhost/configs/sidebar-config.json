@@ -1,0 +1,28 @@
+{
+  "siteName": "CoinLab",
+  "disabledApps": [
+    "earn",
+    "home"
+  ],
+  "menuLinks": [
+  ],
+  "helpLinks": [
+    {
+      "href": "https://t.me/CoinLABchannel",
+      "icon": "telegram.svg"
+    },
+    {
+      "href": "https://t.me/coinLABgroup",
+      "icon": "global-community.svg"
+    },
+    {
+      "href": "https://twitter.com/CoinLAB_Offi?s=09",
+      "icon": "twitter.svg"
+    },
+    {
+      "href": "https://www.facebook.com/CoinLABVN",
+      "icon": "facebook.svg"
+    }
+  ],
+  "defaultReferral": "0xE3C75f8963E4CA02ea9a281c32b41FdfC248e07f"
+}
